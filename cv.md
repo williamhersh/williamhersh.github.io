@@ -3,17 +3,17 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Professor and Chair, Department of Medical Informatics & Clinical Epidemiology
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`1976 - 1979`
+__University of Illinois Champaign-Urbana__
+Bachelor of Science, Biology
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`1980 - 1984`
+__University of Illinois Chicago__
+Doctor of Medicine 
 
 ## Awards
 
@@ -50,7 +50,7 @@ Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Li
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__Professor and Chair, Department of Medical Informatics & Clinical Epidemiology__, OHSU 
 
 - Task
 - Task
